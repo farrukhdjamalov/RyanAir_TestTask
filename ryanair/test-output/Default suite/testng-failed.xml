@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="test.Booking">
+        <methods>
+          <include name="setUp"/>
+          <include name="test7"/>
+          <include name="setUpBeforeClass"/>
+          <include name="test6"/>
+          <include name="test8"/>
+          <include name="test5"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- test.Booking -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
